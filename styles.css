@@ -1,31 +1,14 @@
-html,
-body,
-#app {
-  height: 100%;
+*,
+*::before,
+*::after {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-#app {
-  display: flex;
-}
-
-.box {
-  width: 300px;
-  height: 60px;
-  margin: 5px;
-}
-
-.red {
-  order: 3;
-  background: #f00;
-}
-
-.green {
-  order: 2;
-  background: #0f0;
-}
-
-.blue {
-  order: 0;
-  background: #00f;
+body {
+  background: #e6ecf0;
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
 }
