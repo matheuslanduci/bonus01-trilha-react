@@ -8,7 +8,7 @@
 
 ## Sobre o bônus
 
-Bônus são cursos extras liberados ao longo do curso Ignite.Nesse curso criamos uma página do Twitter utilizando majoritariamente a propriedade Flexbox do CSS.
+Bônus são cursos extras liberados ao longo do curso Ignite. Nesse curso criamos uma página do Twitter utilizando majoritariamente a propriedade Flexbox do CSS.
 
 ## 🚀 Como executar
 
